@@ -297,11 +297,11 @@ if __name__ == "__main__":
     max_try_time = 5
     difficulties = ["medium"]  # Can be expanded to ["easy", "medium", "hard"]
     num_examples = [0,1,2,3,4,5]
-    mode='base' # base,rag,cdit
+    mode='base' # base,rag,qmra
 
     if mode == 'rag':
         prompt3_data=prompt_rag
-    elif mode == 'cdit':
+    elif mode == 'qmra':
         prompt3_data=prompt_rag_cdit
 
     all_results = {}
