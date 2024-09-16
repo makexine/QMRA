@@ -1,0 +1,30 @@
+{"id": 0, "question": "Please prepare some coffee.", "answer": "Exists_Coffee"}
+{"id": 1, "question": "Would you mind fetching my vacuum cup to the hydration area?", "answer": "On_VacuumCup_WaterStation"}
+{"id": 2, "question": "Can I have some water served at the first table, please?", "answer": "On_Water_Table1"}
+{"id": 3, "question": "Would it be possible to send some yoghurt over to the second table?", "answer": "On_Yogurt_Table2"}
+{"id": 4, "question": "Would you mind turning on the air conditioning?", "answer": "Active_AC"}
+{"id": 5, "question": "I'd appreciate it if you could deliver a bottled drink to the third table.", "answer": "On_BottledDrink_Table3"}
+{"id": 6, "question": "I would like a dessert at the bar, please.", "answer": "On_Dessert_Bar"}
+{"id": 7, "question": "Could you serve crisps at Table 3?", "answer": "On_Chips_Table3"}
+{"id": 8, "question": "Could you turn on the tube light, please?", "answer": "Active_TubeLight"}
+{"id": 9, "question": "Could you close the curtains, please? ", "answer": "Closed_Curtain"}
+{"id": 10, "question": "Can you make sure that table 1 is clean?", "answer": "IsClean_Table1"}
+{"id": 11, "question": "Please place the Bernachon on window table 6.", "answer": "On_Bernachon_WindowTable6"}
+{"id": 12, "question": "Please bring a milk drink to bar 2.", "answer": "On_MilkDrink_Bar2"}
+{"id": 13, "question": "Please ensure the air conditioning is activated.", "answer": "Active_AC"}
+{"id": 14, "question": "Could you please check if the hall light is on?", "answer": "Active_HallLight"}
+{"id": 15, "question": "Could you place the NFC juice on Table 2?", "answer": "On_NFCJuice_Table2"}
+{"id": 16, "question": "I'd like some spring water at Table 1.", "answer": "On_SpringWater_Table1"}
+{"id": 17, "question": "Please make sure the floor is clean.", "answer": "IsClean_Floor"}
+{"id": 18, "question": "Can you check if the chairs are clean?", "answer": "IsClean_Chairs"}
+{"id": 19, "question": "Could you lower the air conditioning temperature?", "answer": "Low_ACTemperature"}
+{"id": 20, "question": "I need ADMilk at the coffee station.", "answer": "On_ADMilk_CoffeeStation"}
+{"id": 21, "question": "Can you bring milk to the bar?", "answer": "On_Milk_Bar"}
+{"id": 22, "question": "Please close the curtains.", "answer": "Closed_Curtain"}
+{"id": 23, "question": "Could you turn on the tube light?", "answer": "Active_TubeLight"}
+{"id": 24, "question": "Please serve a soft drink at Table 3.", "answer": "On_Softdrink_Table3"}
+{"id": 25, "question": "Could you make sure the chairs are clean?", "answer": "IsClean_Chairs"}
+{"id": 26, "question": "I'd like a dessert at the bar, please.", "answer": "On_Dessert_Bar"}
+{"id": 27, "question": "It's quite toasty inside, could you please lower the air conditioning temperature?", "answer": "Low_ACTemperature"}
+{"id": 28, "question": "Could you convey some coffee to the table six?", "answer": "On_Coffee_WindowTable6"}
+{"id": 29, "question": "I'd like a glass of water at Bar 2.", "answer": "On_Water_Bar2"}

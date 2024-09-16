@@ -1,0 +1,100 @@
+{"id": 0, "title": "Please bring the drinks to the VIP lounge and handle the temperature.", "text": "On_Drinks_VIPLounge & Active_AC"}
+{"id": 1, "title": "Could you prepare some coffee and bring the cake to table two?", "text": "Exists_Coffee & On_Cake_Table2"}
+{"id": 2, "title": "If the air conditioning is on, reduce the temperature, and bring the yogurt to the reading nook.", "text": "Low_ACTemperature & On_Yogurt_ReadingNook"}
+{"id": 3, "title": "Deliver the medical adhesive tape to table three and ensure the chairs are clean.", "text": "On_MedicalAdhensiveTape_Table3 & IsClean_Chairs"}
+{"id": 4, "title": "Turn off the AC and deliver the drinks to the entrance.", "text": "~Active_AC & On_Drinks_Entrance"}
+{"id": 5, "title": "Please place the mangosteen at the bar and close the curtains.", "text": "On_Mangosteen_Bar & Closed_Curtain"}
+{"id": 6, "title": "Bring the paper cup to table one and lower the temperature of the AC.", "text": "On_PaperCup_Table1 & Low_ACTemperature"}
+{"id": 7, "title": "Please bring the yogurt to VIP lounge and also check the AC.", "text": "On_Yogurt_VIPLounge & Active_AC"}
+{"id": 8, "title": "Prepare a teacup and ensure that the door is closed.", "text": "Exists_Teacup & Closed_Door"}
+{"id": 9, "title": " Could you deliver the bread to table three and turn off the AC?", "text": "On_Bread_Table3 & ~Active_AC"}
+{"id": 10, "title": " Bring the tomato to the reading nook and close the curtains, please.", "text": "On_Tomato_ReadingNook & Closed_Curtain"}
+{"id": 11, "title": " If possible, bring the cake to the entrance, and ensure the air conditioning is working.", "text": "On_Cake_Entrance & Active_AC"}
+{"id": 12, "title": " Please ensure the chairs are clean and prepare some drinks.", "text": "IsClean_Chairs & Exists_Drinks"}
+{"id": 13, "title": " Bring a glass to table one and turn on the air conditioner.", "text": "On_Glass_Table1 & Active_AC"}
+{"id": 14, "title": " Please make a coffee and bring me the knife from the bar to table one.", "text": "Exists_Coffee & On_Knife_Table1"}
+{"id": 15, "title": " If the drinks are ready, deliver them to table four.", "text": "Exists_Drinks & On_Drinks_Table4"}
+{"id": 16, "title": " Please close the door and make sure the chairs are arranged nicely.", "text": "Closed_Door & IsClean_Chairs"}
+{"id": 17, "title": " Bring a cup of yogurt to the reading nook and check the temperature of the AC.", "text": "On_Yogurt_ReadingNook & Active_AC"}
+{"id": 18, "title": " Please check if the air conditioning is working and bring the bread to table two.", "text": "Active_AC & On_Bread_Table2"}
+{"id": 19, "title": " Could you grab some drinks and ensure that the curtains are tight?", "text": "Exists_Drinks & Closed_Curtain"}
+{"id": 20, "title": " Check if the AC is on and take the teacup to table three.", "text": "Active_AC & On_Teacup_Table3"}
+{"id": 21, "title": " Bring the mango to the entrance and reduce the temperature of the AC, please.", "text": "On_Mango_Entrance & Low_ACTemperature"}
+{"id": 22, "title": " Make sure to prepare some yogurt and close the curtains.", "text": "Exists_Yogurt & Closed_Curtain"}
+{"id": 23, "title": " Deliver the cake to the VIP lounge and ensure that the door is closed.", "text": "On_Cake_VIPLounge & Closed_Door"}
+{"id": 24, "title": " If the medical adhesive tape is available, bring it to the reading nook.", "text": "Exists_MedicalAdhensiveTape & On_MedicalAdhensiveTape_ReadingNook"}
+{"id": 25, "title": " Bring a glass of water to table one and check if the air conditioning is active.", "text": "On_Glass_Table1 & Active_AC"}
+{"id": 26, "title": " Please serve the drinks at the bar and handle the AC settings.", "text": "On_Drinks_Bar & Active_AC"}
+{"id": 27, "title": " Could you deliver some bread to the entrance and make sure the air conditioning is low?", "text": "On_Bread_Entrance & Low_ACTemperature"}
+{"id": 28, "title": " Bring me a coffee next to the door and check the temperature in the room.", "text": "On_Coffee_Door & Active_AC"}
+{"id": 29, "title": " Please turn on the AC and arrange the chairs properly.", "text": "Active_AC & IsClean_Chairs"}
+{"id": 30, "title": " Make sure the curtains are closed and the drinks are prepared.", "text": "Closed_Curtain & Exists_Drinks"}
+{"id": 31, "title": " If the teacup is ready, deliver it to the reading nook.", "text": "Exists_Teacup & On_Teacup_ReadingNook"}
+{"id": 32, "title": " Bring the yogurt to table four and check the floor if possible.", "text": "On_Yogurt_Table4 & IsClean_Floor"}
+{"id": 33, "title": " Could you check if the AC is running and deliver the tomato to the bar?", "text": "Active_AC & On_Tomato_Bar"}
+{"id": 34, "title": " Please ensure the coffee is ready and bring it to the entrance.", "text": "Exists_Coffee & On_Coffee_Entrance"}
+{"id": 35, "title": " Turn off the AC and ensure the table one is clean.", "text": "~Active_AC & IsClean_Table1"}
+{"id": 36, "title": " Bring the medical adhesive tape to the bar and arrange the chairs.", "text": "On_MedicalAdhensiveTape_Bar & IsClean_Chairs "}
+{"id": 37, "title": " Please lower the temperature and check the door is closed.", "text": "Low_ACTemperature & Closed_Door"}
+{"id": 38, "title": " Bring the drink to the reading nook and ensure the paper cup is on the table.", "text": "On_Drink_ReadingNook & On_PaperCup_Table "}
+{"id": 39, "title": " If there's time, prepare some cake and deliver it to the entrance.", "text": "Exists_Cake & On_Cake_Entrance "}
+{"id": 40, "title": " Please serve coffee and ensure the curtains are drawn.", "text": "Exists_Coffee & Closed_Curtain "}
+{"id": 41, "title": " If the air conditioning is working, bring the drinks to table two.", "text": "Active_AC & On_Drinks_Table2"}
+{"id": 42, "title": " Please next check if the bread is ready and arrange the chairs.", "text": "Exists_Bread & IsClean_Chairs "}
+{"id": 43, "title": " Bring the glass to the bar and check the AC settings.", "text": "On_Glass_Bar & Active_AC "}
+{"id": 44, "title": " If the tomato is picked, please take it to table one.", "text": "Exists_Tomato & On_Tomato_Table1"}
+{"id": 45, "title": " Make sure to close the door and serve the yogurt.", "text": "Closed_Door & Exists_Yogurt"}
+{"id": 46, "title": " Bring a cake to the VIP lounge and check the AC.", "text": "On_Cake_VIPLounge & Active_AC"}
+{"id": 47, "title": " Please move the drinks to table three and lower the AC temperature.", "text": "On_Drinks_Table3 & Low_ACTemperature "}
+{"id": 48, "title": " Bring the mangosteen to the reading nook and arrange the chairs.", "text": "On_Mangosteen_ReadingNook & IsClean_Chairs "}
+{"id": 49, "title": " Ensure the air conditioning is off and that the floor are clean.", "text": "~Active_AC & IsClean_Floor"}
+{"id": 50, "title": " If the yogurt is chilled, please bring it to table four.", "text": "Exists_Yogurt & On_Yogurt_Table4"}
+{"id": 51, "title": " Could you deliver the drinks to the reading nook and check the curtains?", "text": "On_Drinks_ReadingNook & Closed_Curtain "}
+{"id": 52, "title": " Bring me a cup of coffee or a knife to table one.", "text": "On_Coffee_Table1 | On_Knife_Table1"}
+{"id": 53, "title": " Deliver the medical adhesive tape to table two and reduce the temperature.", "text": "On_MedicalAdhensiveTape_Table2 & Low_ACTemperature "}
+{"id": 54, "title": " If the bread is prepared, bring it to the VIP lounge.", "text": "Exists_Bread & On_Bread_VIPLounge"}
+{"id": 55, "title": " Close the curtains and ensure the AC is running.", "text": "Closed_Curtain & Active_AC "}
+{"id": 56, "title": " Check the temperature of the AC and bring the drinks to the bar.", "text": "Active_AC & On_Drinks_Bar"}
+{"id": 57, "title": " Bring the yogurt and check if the door is closed.", "text": "On_Yogurt & Closed_Door "}
+{"id": 58, "title": " If the teacup is clean, please deliver it to table three.", "text": "On_Teacup_Table3 & IsClean_Teacup"}
+{"id": 59, "title": " Please close the door and make some coffee.", "text": "Closed_Door & Exists_Coffee "}
+{"id": 60, "title": " Prepare some drinks to serve at the entrance and check the curtains.", "text": "On_Drinks_Entrance & Closed_Curtain "}
+{"id": 61, "title": " If possible, deliver the cake to the bar and make sure the air conditioning is low.", "text": "On_Cake_Bar & Low_ACTemperature"}
+{"id": 62, "title": " Please bring mangosteen to the reading nook and check the AC.", "text": "On_Mangosteen_ReadingNook & Active_AC "}
+{"id": 63, "title": " Bring the glass to table one and make sure the AC is on.", "text": "On_Glass_Table1 & Active_AC "}
+{"id": 64, "title": " If the chairs are messy, can you rearrange them and bring the yogurt to table two?", "text": "IsClean_Chairs & On_Yogurt_Table2"}
+{"id": 65, "title": " Prepare a tray of drinks and check if the curtains are closed.", "text": "Exists_Drinks & Closed_Curtain "}
+{"id": 66, "title": " Please serve the cake and ensure the door is locked.", "text": "Exists_Cake & Closed_Door"}
+{"id": 67, "title": " If the air conditioning is running, turn it off and prepare the medical adhesive tape.", "text": "~Active_AC & Exists_MedicalAdhensiveTape"}
+{"id": 68, "title": " Bring coffee to table two and check the temperature.", "text": "On_Coffee_Table2 & Active_AC "}
+{"id": 69, "title": " If the drinks are ready, bring them to the reading nook.", "text": "Exists_Drinks & On_Drinks_ReadingNook "}
+{"id": 70, "title": " Could you check if the door is secure or prepare the cake?", "text": "Closed_Door | Exists_Cake "}
+{"id": 71, "title": " Close the curtains and ensure drinks are available.", "text": "Closed_Curtain & Exists_Drinks "}
+{"id": 72, "title": " Bring a paper cup to table one and reduce the temperature of the AC.", "text": "On_PaperCup_Table1 & Low_ACTemperature "}
+{"id": 73, "title": " If the AC needs adjusting, could you do that and serve the drinks?", "text": "Low_ACTemperature & Exists_Drinks"}
+{"id": 74, "title": " Please reduce the temperature and deliver the yogurt to the VIP lounge.", "text": "Low_ACTemperature & On_Yogurt_VIPLounge "}
+{"id": 75, "title": " If the NFCJuice is baked, bring it to the entrance.", "text": "Exists_NFCJuice & On_NFCJuice_Entrance"}
+{"id": 76, "title": " Ensure the mangosteen is served and the curtains are drawn tightly.", "text": "Exists_Mangosteen & Closed_Curtain"}
+{"id": 77, "title": " If the drinks are on the table one, check the AC.", "text": "On_Drinks_Table1 & Active_AC"}
+{"id": 78, "title": " Bring the tomato to table four or clean the chairs.", "text": "On_Tomato_Table4 | IsClean_Chairs"}
+{"id": 79, "title": " Please close the door and ensure the refrigerator is working.", "text": "Closed_Door & Active_AC"}
+{"id": 80, "title": " Bring the knife to the reading nook and ensure drinks are ready.", "text": "On_Knife_ReadingNook & Exists_Drinks "}
+{"id": 81, "title": " If there's time, serve cake and check if chairs are tidy.", "text": "Exists_Cake & IsClean_Chairs"}
+{"id": 82, "title": " Please keep the door closed and bring the yogurt to table three.", "text": "Closed_Door & On_Yogurt_Table3 "}
+{"id": 83, "title": " Prepare some drinks and check the temperature of the AC.", "text": "Exists_Drinks & Active_AC "}
+{"id": 84, "title": " Bring the paper cup to table two and ensure the AC is low.", "text": "On_PaperCup_Table2 & Low_ACTemperature "}
+{"id": 85, "title": " If coffee is available, bring it to the bar and ensure the AC is working.", "text": "Exists_Coffee & On_Coffee_Bar | Active_AC"}
+{"id": 86, "title": " Make sure the medical adhesive tape is available and bring the drinks to the bar.", "text": "Exists_MedicalAdhensiveTape & On_Drinks_Bar"}
+{"id": 87, "title": " Please prepare a cool drink and check if curtains are closed.", "text": "Exists_Drinks & Closed_Curtain "}
+{"id": 88, "title": " Prepare the knife and check the chairs for cleanliness.", "text": "Exists_Knife & IsClean_Chairs"}
+{"id": 89, "title": " Prepare some coffee and close the door.", "text": "Exists_Coffee & Closed_Door "}
+{"id": 90, "title": " If the tea is brewed, please take it to the entrance.", "text": "Exists_Tea | On_Tea_Entrance"}
+{"id": 91, "title": " Ensure all drinks are chilled and bring them to table three.", "text": "Exists_Drinks & On_Drinks_Table3"}
+{"id": 92, "title": " If the door is open, please close it and serve the yogurt.", "text": "Closed_Door | Exists_Yogurt"}
+{"id": 93, "title": " Check if the ac is active and deliver drinks to the table two.", "text": "Active_AC | On_Drinks_Table2"}
+{"id": 94, "title": " Please prepare some milk and ensure curtains are drawn.", "text": "Exists_Milk & Closed_Curtain"}
+{"id": 95, "title": " Bring the ADMilk to table four and open the AC.", "text": "On_ADMilk_Table4 & Active_AC"}
+{"id": 96, "title": " If possible, bring the drinks to the reading nook or ensure the coffee is made.", "text": "On_Drinks_ReadingNook | Exists_Coffee "}
+{"id": 97, "title": " Please check if chairs are clean and serve the tomato.", "text": "IsClean_Chairs & Exists_Tomato"}
+{"id": 98, "title": " Close the door tightly and prepare a cup of yogurt for me.", "text": "Closed_Door & Exists_Yogurt"}
+{"id": 99, "title": ": If the cake is ready, please bring it to the entrance and adjust the AC.", "text": "On_Cake_Entrance & Active_AC"}

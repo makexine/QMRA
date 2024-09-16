@@ -1,0 +1,299 @@
+1. Instruction: Please bring the drinks to the VIP lounge and handle the temperature.
+   Goal: On_Drinks_VIPLounge & Active_AC
+
+2. Instruction: Could you prepare some coffee and bring the cake to table two?
+   Goal: Exists_Coffee & On_Cake_Table2
+
+3. Instruction: If the air conditioning is on, reduce the temperature, and bring the yogurt to the reading nook.
+   Goal: Low_ACTemperature & On_Yogurt_ReadingNook
+
+4. Instruction: Deliver the medical adhesive tape to table three and ensure the chairs are clean.
+   Goal: On_MedicalAdhensiveTape_Table3 & IsClean_Chairs
+
+5. Instruction: Turn off the AC and deliver the drinks to the entrance.
+   Goal: ~Active_AC & On_Drinks_Entrance
+
+6. Instruction: Please place the mangosteen at the bar and close the curtains.
+   Goal: On_Mangosteen_Bar & Closed_Curtain
+
+7. Instruction: Bring the paper cup to table one and lower the temperature of the AC.
+   Goal: On_PaperCup_Table1 & Low_ACTemperature
+
+8. Instruction: Please bring the yogurt to VIP lounge and also check the AC.
+   Goal: On_Yogurt_VIPLounge & Active_AC
+
+9. Instruction: Prepare a teacup and ensure that the door is closed.
+   Goal: Exists_Teacup & Closed_Door
+
+10. Instruction: Could you deliver the bread to table three and turn off the AC?
+   Goal: On_Bread_Table3 & ~Active_AC
+
+11. Instruction: Bring the tomato to the reading nook and close the curtains, please.
+   Goal: On_Tomato_ReadingNook & Closed_Curtain
+
+12. Instruction: If possible, bring the cake to the entrance, and ensure the air conditioning is working.
+   Goal: On_Cake_Entrance & Active_AC
+
+13. Instruction: Please ensure the chairs are clean and prepare some drinks.
+   Goal: IsClean_Chairs & Exists_Drinks
+
+14. Instruction: Bring a glass to table one and turn on the air conditioner.
+   Goal: On_Glass_Table1 & Active_AC
+
+15. Instruction: Please make a coffee and bring me the knife from the bar to table one.
+   Goal: Exists_Coffee & On_Knife_Table1
+
+16. Instruction: If the drinks are ready, deliver them to table four.
+   Goal: Exists_Drinks & On_Drinks_Table4
+
+17. Instruction: Please close the door and make sure the chairs are arranged nicely.
+   Goal: Closed_Door & IsClean_Chairs
+
+18. Instruction: Bring a cup of yogurt to the reading nook and check the temperature of the AC.
+   Goal: On_Yogurt_ReadingNook & Active_AC
+
+19. Instruction: Please check if the air conditioning is working and bring the bread to table two.
+   Goal: Active_AC & On_Bread_Table2
+
+20. Instruction: Could you grab some drinks and ensure that the curtains are tight?
+   Goal: Exists_Drinks & Closed_Curtain
+
+21. Instruction: Check if the AC is on and take the teacup to table three.
+   Goal: Active_AC & On_Teacup_Table3
+
+22. Instruction: Bring the mango to the entrance and reduce the temperature of the AC, please.
+   Goal: On_Mango_Entrance & Low_ACTemperature
+
+23. Instruction: Make sure to prepare some yogurt and close the curtains.
+   Goal: Exists_Yogurt & Closed_Curtain
+
+24. Instruction: Deliver the cake to the VIP lounge and ensure that the door is closed.
+   Goal: On_Cake_VIPLounge & Closed_Door
+
+25. Instruction: If the medical adhesive tape is available, bring it to the reading nook.
+   Goal: Exists_MedicalAdhensiveTape & On_MedicalAdhensiveTape_ReadingNook
+
+26. Instruction: Bring a glass of water to table one and check if the air conditioning is active.
+   Goal: On_Glass_Table1 & Active_AC
+
+27. Instruction: Please serve the drinks at the bar and handle the AC settings.
+   Goal: On_Drinks_Bar & Active_AC
+
+28. Instruction: Could you deliver some bread to the entrance and make sure the air conditioning is low?
+   Goal: On_Bread_Entrance & Low_ACTemperature
+
+29. Instruction: Bring me a coffee next to the door and check the temperature in the room.
+   Goal: On_Coffee_Door & Active_AC
+
+30. Instruction: Please turn on the AC and arrange the chairs properly.
+   Goal: Active_AC & IsClean_Chairs
+
+31. Instruction: Make sure the curtains are closed and the drinks are prepared.
+   Goal: Closed_Curtain & Exists_Drinks
+
+32. Instruction: If the teacup is ready, deliver it to the reading nook.
+   Goal: Exists_Teacup & On_Teacup_ReadingNook
+
+33. Instruction: Bring the yogurt to table four and check the floor if possible.
+   Goal: On_Yogurt_Table4 & IsClean_Floor
+
+34. Instruction: Could you check if the AC is running and deliver the tomato to the bar?
+   Goal: Active_AC & On_Tomato_Bar
+
+35. Instruction: Please ensure the coffee is ready and bring it to the entrance.
+   Goal: Exists_Coffee & On_Coffee_Entrance
+
+36. Instruction: Turn off the AC and ensure the table one is clean.
+   Goal: ~Active_AC & IsClean_Table1
+
+37. Instruction: Bring the medical adhesive tape to the bar and arrange the chairs.
+   Goal: On_MedicalAdhensiveTape_Bar & IsClean_Chairs 
+
+38. Instruction: Please lower the temperature and check the door is closed.
+   Goal: Low_ACTemperature & Closed_Door
+
+39. Instruction: Bring the drink to the reading nook and ensure the paper cup is on the table.
+   Goal: On_Drink_ReadingNook & On_PaperCup_Table 
+
+40. Instruction: If there's time, prepare some cake and deliver it to the entrance.
+   Goal: Exists_Cake & On_Cake_Entrance 
+
+41. Instruction: Please serve coffee and ensure the curtains are drawn.
+   Goal: Exists_Coffee & Closed_Curtain 
+
+42. Instruction: If the air conditioning is working, bring the drinks to table two.
+   Goal: Active_AC & On_Drinks_Table2
+
+43. Instruction: Please next check if the bread is ready and arrange the chairs.
+   Goal: Exists_Bread & IsClean_Chairs 
+
+44. Instruction: Bring the glass to the bar and check the AC settings.
+   Goal: On_Glass_Bar & Active_AC 
+
+45. Instruction: If the tomato is picked, please take it to table one.
+   Goal: Exists_Tomato & On_Tomato_Table1
+
+46. Instruction: Make sure to close the door and serve the yogurt.
+   Goal: Closed_Door & Exists_Yogurt
+
+47. Instruction: Bring a cake to the VIP lounge and check the AC.
+   Goal: On_Cake_VIPLounge & Active_AC
+
+48. Instruction: Please move the drinks to table three and lower the AC temperature.
+   Goal: On_Drinks_Table3 & Low_ACTemperature 
+
+49. Instruction: Bring the mangosteen to the reading nook and arrange the chairs.
+   Goal: On_Mangosteen_ReadingNook & IsClean_Chairs 
+
+50. Instruction: Ensure the air conditioning is off and that the floor are clean.
+   Goal: ~Active_AC & IsClean_Floor
+
+51. Instruction: If the yogurt is chilled, please bring it to table four.
+   Goal: Exists_Yogurt & On_Yogurt_Table4
+
+52. Instruction: Could you deliver the drinks to the reading nook and check the curtains?
+   Goal: On_Drinks_ReadingNook & Closed_Curtain 
+
+53. Instruction: Bring me a cup of coffee or a knife to table one.
+   Goal: On_Coffee_Table1 | On_Knife_Table1
+
+54. Instruction: Deliver the medical adhesive tape to table two and reduce the temperature.
+   Goal: On_MedicalAdhensiveTape_Table2 & Low_ACTemperature 
+
+55. Instruction: If the bread is prepared, bring it to the VIP lounge.
+   Goal: Exists_Bread & On_Bread_VIPLounge
+
+56. Instruction: Close the curtains and ensure the AC is running.
+   Goal: Closed_Curtain & Active_AC 
+
+57. Instruction: Check the temperature of the AC and bring the drinks to the bar.
+   Goal: Active_AC & On_Drinks_Bar
+
+58. Instruction: Bring the yogurt and check if the door is closed.
+   Goal: On_Yogurt & Closed_Door 
+
+59. Instruction: If the teacup is clean, please deliver it to table three.
+   Goal: On_Teacup_Table3 & IsClean_Teacup
+
+60. Instruction: Please close the door and make some coffee.
+   Goal: Closed_Door & Exists_Coffee 
+
+61. Instruction: Prepare some drinks to serve at the entrance and check the curtains.
+   Goal: On_Drinks_Entrance & Closed_Curtain 
+
+62. Instruction: If possible, deliver the cake to the bar and make sure the air conditioning is low.
+   Goal: On_Cake_Bar & Low_ACTemperature
+
+63. Instruction: Please bring mangosteen to the reading nook and check the AC.
+   Goal: On_Mangosteen_ReadingNook & Active_AC 
+
+64. Instruction: Bring the glass to table one and make sure the AC is on.
+   Goal: On_Glass_Table1 & Active_AC 
+
+65. Instruction: If the chairs are messy, can you rearrange them and bring the yogurt to table two?
+   Goal: IsClean_Chairs & On_Yogurt_Table2
+
+66. Instruction: Prepare a tray of drinks and check if the curtains are closed.
+   Goal: Exists_Drinks & Closed_Curtain 
+
+67. Instruction: Please serve the cake and ensure the door is locked.
+   Goal: Exists_Cake & Closed_Door
+
+68. Instruction: If the air conditioning is running, turn it off and prepare the medical adhesive tape.
+   Goal: ~Active_AC & Exists_MedicalAdhensiveTape
+
+69. Instruction: Bring coffee to table two and check the temperature.
+   Goal: On_Coffee_Table2 & Active_AC 
+
+70. Instruction: If the drinks are ready, bring them to the reading nook.
+   Goal: Exists_Drinks & On_Drinks_ReadingNook 
+
+71. Instruction: Could you check if the door is secure or prepare the cake?
+   Goal: Closed_Door | Exists_Cake 
+
+72. Instruction: Close the curtains and ensure drinks are available.
+   Goal: Closed_Curtain & Exists_Drinks 
+
+73. Instruction: Bring a paper cup to table one and reduce the temperature of the AC.
+   Goal: On_PaperCup_Table1 & Low_ACTemperature 
+
+74. Instruction: If the AC needs adjusting, could you do that and serve the drinks?
+   Goal: Low_ACTemperature & Exists_Drinks
+
+75. Instruction: Please reduce the temperature and deliver the yogurt to the VIP lounge.
+   Goal: Low_ACTemperature & On_Yogurt_VIPLounge 
+
+76. Instruction: If the NFCJuice is baked, bring it to the entrance.
+   Goal: Exists_NFCJuice & On_NFCJuice_Entrance
+
+77. Instruction: Ensure the mangosteen is served and the curtains are drawn tightly.
+   Goal: Exists_Mangosteen & Closed_Curtain
+
+78. Instruction: If the drinks are on the table one, check the AC.
+   Goal: On_Drinks_Table1 & Active_AC
+
+79. Instruction: Bring the tomato to table four or clean the chairs.
+   Goal: On_Tomato_Table4 | IsClean_Chairs
+
+80. Instruction: Please close the door and ensure the refrigerator is working.
+   Goal: Closed_Door & Active_AC
+
+81. Instruction: Bring the knife to the reading nook and ensure drinks are ready.
+   Goal: On_Knife_ReadingNook & Exists_Drinks 
+
+82. Instruction: If there's time, serve cake and check if chairs are tidy.
+   Goal: Exists_Cake & IsClean_Chairs
+
+83. Instruction: Please keep the door closed and bring the yogurt to table three.
+   Goal: Closed_Door & On_Yogurt_Table3 
+
+84. Instruction: Prepare some drinks and check the temperature of the AC.
+   Goal: Exists_Drinks & Active_AC 
+
+85. Instruction: Bring the paper cup to table two and ensure the AC is low.
+   Goal: On_PaperCup_Table2 & Low_ACTemperature 
+
+86. Instruction: If coffee is available, bring it to the bar and ensure the AC is working.
+   Goal: Exists_Coffee & On_Coffee_Bar | Active_AC
+
+87. Instruction: Make sure the medical adhesive tape is available and bring the drinks to the bar.
+   Goal: Exists_MedicalAdhensiveTape & On_Drinks_Bar
+
+88. Instruction: Please prepare a cool drink and check if curtains are closed.
+   Goal: Exists_Drinks & Closed_Curtain 
+
+89. Instruction: Prepare the knife and check the chairs for cleanliness.
+   Goal: Exists_Knife & IsClean_Chairs
+
+90. Instruction: Prepare some coffee and close the door.
+   Goal: Exists_Coffee & Closed_Door 
+
+91. Instruction: If the tea is brewed, please take it to the entrance.
+   Goal: Exists_Tea | On_Tea_Entrance
+
+92. Instruction: Ensure all drinks are chilled and bring them to table three.
+   Goal: Exists_Drinks & On_Drinks_Table3
+
+93. Instruction: If the door is open, please close it and serve the yogurt.
+   Goal: Closed_Door | Exists_Yogurt
+
+94. Instruction: Check if the ac is active and deliver drinks to the table two.
+   Goal: Active_AC | On_Drinks_Table2
+
+95. Instruction: Please prepare some milk and ensure curtains are drawn.
+   Goal: Exists_Milk & Closed_Curtain
+
+96. Instruction: Bring the ADMilk to table four and open the AC.
+   Goal: On_ADMilk_Table4 & Active_AC
+
+97. Instruction: If possible, bring the drinks to the reading nook or ensure the coffee is made.
+   Goal: On_Drinks_ReadingNook | Exists_Coffee 
+
+98. Instruction: Please check if chairs are clean and serve the tomato.
+   Goal: IsClean_Chairs & Exists_Tomato
+
+99. Instruction: Close the door tightly and prepare a cup of yogurt for me.
+   Goal: Closed_Door & Exists_Yogurt
+
+100. Instruction: If the cake is ready, please bring it to the entrance and adjust the AC.
+   Goal: On_Cake_Entrance & Active_AC
